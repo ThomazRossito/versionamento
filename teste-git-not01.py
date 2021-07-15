@@ -7,3 +7,8 @@ print('teste github')
 
 print('teste github2')
 print('teste github3')
+
+# COMMAND ----------
+
+print('teste github2')
+print('teste github3')
